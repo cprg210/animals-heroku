@@ -1,7 +1,7 @@
 // import modules
 const path = require('path');
 const express = require('express');
-const animals = require('./animals');
+const animals = require('/animals');
 
 // create express app
 const app = express();
